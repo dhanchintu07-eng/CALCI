@@ -8,4 +8,4 @@ A simple calculator built using HTML, CSS, and JavaScript.
 - Clean UI
 
 ## Live Demo
-(link here after deploying)
+(https://calci247.vercel.app)
